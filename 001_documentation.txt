@@ -1,0 +1,37 @@
+App name: Clarity
+
+App type: chatbot
+
+App purpose: provide a chatbot as the main touchpoint for end users. 
+
+App functionality: users will submit data queries to the chat interface in the form of questions. The chatbot will interpret and process the questions via NLP, neural networks, and algorithms to provide intelligent responses and also generate data visualizations based on the queries. Dialogue will be tracked as a chat log and the data visualizations (charts and graphs, etc.) will be displayed below the chat window. The chatbot will either provide a response in the form of "the answer to your query is xyx" or it will ask clarifying questions until it understands the desired query and data visualization format.
+
+Packages to be used:
+Flask
+Flask-RESTful
+Flask-socketio
+Tensorflow
+TensorFlow-Datasets
+NLTK
+PyAIML
+SQLAlchemy
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Plotly
+Pattern
+tkinter for Chatterbot GUI
+
+Initial deployment: IDE output via tkinter.
+
+Implement the logic for your chatbot, including any API calls or database queries it needs to make.
+
+Train your chatbot using examples of expected inputs and outputs, so it can learn to respond appropriately.
+
+Test your chatbot and refine its conversational flow and logic as needed.
+
+Deploy your chatbot on a platform where users can interact with it, such as Facebook Messenger, Slack, or your own website.
+
+Continuously monitor and improve your chatbot by analyzing user interactions and feedback, and incorporating that data into further training and development.
+

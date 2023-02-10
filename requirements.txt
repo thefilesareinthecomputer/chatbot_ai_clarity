@@ -1,0 +1,15 @@
+Flask
+Flask-RESTful
+Flask-socketio
+Tensorflow
+TensorFlow-Datasets
+NLTK
+PyAIML
+SQLAlchemy
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Plotly
+Pattern
+openpyxl
